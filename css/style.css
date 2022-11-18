@@ -223,7 +223,7 @@ text-align: center;}
 
 
 #milestone {
-    background: linear-gradient(rgba(2, 150, 150, 0.932), rgba(4, 215, 243, 0.541)), url(../img/IMG_7400.jpg);
+    background: linear-gradient(rgba(2, 150, 150, 0.932), rgba(4, 215, 243, 0.541)), url(../img/project2_11zon.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -468,12 +468,12 @@ text-align: center;}
 }
 
 .blog-post .content {
-    padding: 32px;
+    padding: 22px;
 }
 
 .blog-post a {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 20px;
     background-color: var(--brand);
     padding: 2px 12px;
@@ -483,16 +483,9 @@ text-align: center;}
 }
 
 .blog-post h5 {
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
-
-.blog-post small {
-    text-transform: uppercase;
-    color: var(--brand);
-    text-decoration: underline;
-}
-
 footer {
     background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), #082032;;
     background-size: cover;
