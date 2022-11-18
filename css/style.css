@@ -269,12 +269,12 @@ text-align: center;}
 
 .service {
     padding: 32px;
-    /* background-color: #fff; */
-    /* box-shadow: var(--shadow); */
-    border-radius: 17px;
+    background-color: #fff;
+    box-shadow: var(--shadow);
+    /* border-radius: 17px;
     background: linear-gradient(145deg, #cacaca, #f0f0f0);
     box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+             -20px -20px 60px #ffffff; */
 }
 
 .service h5 {
