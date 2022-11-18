@@ -98,14 +98,14 @@ section {
 }
 
 .slide1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/DSC_4487-1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/DSC_4415_11zon.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/IMG_7400.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/IMG_7400_11zon.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
